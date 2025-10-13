@@ -23,7 +23,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Add it to your cart and complete the checkout process.  
 - Once purchased, your domain will appear in your GoDaddy account under **My Products**.  
 
-![Purchase domain](00_buy_domain.png)
+![Purchase domain](Assets/00_buy_domain.png)
 
 ---
 
