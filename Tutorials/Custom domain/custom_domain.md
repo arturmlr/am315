@@ -33,7 +33,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Select your new domain and open **DNS Management**.  
 - Keep the domain name copied — you’ll need it in the next steps.  
 
-![Copy domain](01_copy_domain.png)
+![Copy domain](Assets/01_copy_domain.png)
 
 ---
 
@@ -43,8 +43,8 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Go to **Settings → Custom Domains**.  
 - Click on **Add Domain**.  
 
-![Add domain in golinked](02_add_domain.png)  
-![golinked add domain screen](03_golinked_add_domain.png)
+![Add domain in golinked](Assets/02_add_domain.png)  
+![golinked add domain screen](Assets/03_golinked_add_domain.png)
 
 ---
 
@@ -53,7 +53,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Paste your purchased domain into the input field.  
 - Confirm to proceed.  
 
-![Open GoDaddy domain settings](04_open_godaddy_domain_settings.png)
+![Open GoDaddy domain settings](Assets/04_open_godaddy_domain_settings.png)
 
 ---
 
@@ -62,7 +62,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - In golinked, scroll down to the **GoDaddy section**.  
 - Click **Open GoDaddy Domain Settings** to adjust your DNS.  
 
-![Change nameservers in golinked](05_golinked_change_nameservers.png)
+![Change nameservers in golinked](Assets/05_golinked_change_nameservers.png)
 
 ---
 
@@ -74,9 +74,9 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Paste the Cloudflare nameservers.  
 - Save and confirm.  
 
-![Copy nameservers](06_copy_nameserver_golinked.png)  
-![Edit nameservers](07_Edit_nameserver.png)  
-![Paste nameservers](08_paste_nameserver.png)
+![Copy nameservers](Assets/06_copy_nameserver_golinked.png)  
+![Edit nameservers](Assets/07_Edit_nameserver.png)  
+![Paste nameservers](Assets/08_paste_nameserver.png)
 
 ---
 
@@ -85,7 +85,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Go back to golinked.  
 - Click **Add Domain** again to verify and start propagation.  
 
-![Add domain final step](09_add_domain_last_step.png)
+![Add domain final step](Assets/09_add_domain_last_step.png)
 
 ---
 
@@ -94,8 +94,8 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Once verified, open your golinked dashboard.  
 - Go to your links and select your new **custom domain**.  
 
-![Custom domain overview](10_custom_domain_overview.png)  
-![Custom domain link settings](11_Custom_Domain_Link.png)
+![Custom domain overview](Assets/10_custom_domain_overview.png)  
+![Custom domain link settings](Assets/11_Custom_Domain_Link.png)
 
 ---
 
@@ -108,7 +108,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 - Save the link to finish.  
 
-![Choose custom domain link](12_choose_custom_domain_link.png)
+![Choose custom domain link](Assets/12_choose_custom_domain_link.png)
 
 ---
 
