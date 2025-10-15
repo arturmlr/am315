@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Tutorials",
+    "path": "Tutorials",
+    "type": "folder",
+    "children": [
+      {
+        "name": "Custom domain",
+        "path": "Tutorials/Custom domain",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Custom Domain.md",
+            "path": "Tutorials/Custom domain/Custom Domain.md",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Dashboard Inactive",
+        "path": "Tutorials/Dashboard Inactive",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Dashboard.md",
+            "path": "Tutorials/Dashboard Inactive/Dashboard.md",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Geo Location Inactive",
+        "path": "Tutorials/Geo Location Inactive",
+        "type": "folder",
+        "children": [
+          {
+            "name": "Geo Location Tutorial.md",
+            "path": "Tutorials/Geo Location Inactive/Geo Location Tutorial.md",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "Overview.md",
+        "path": "Tutorials/Overview.md",
+        "type": "file"
+      }
+    ]
+  }
+]

@@ -1,17 +1,17 @@
-# golinked.bio — Custom Domain Setup Guide
+# Golinked.bio — Custom Domain Setup Guide
 
-A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to your **golinked.bio** account using Cloudflare nameservers.
+A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to your **Golinked.bio** account using Cloudflare nameservers.
 
 ---
 
 ## Table of Contents
 - [Step 1: Purchase a Domain (GoDaddy)](#step-1-purchase-a-domain-godaddy)
 - [Step 2: Access DNS Management](#step-2-access-dns-management)
-- [Step 3: Open Custom Domain Settings in golinked](#step-3-open-custom-domain-settings-in-golinked)
+- [Step 3: Open Custom Domain Settings in Golinked](#step-3-open-custom-domain-settings-in-golinked)
 - [Step 4: Enter Your Domain](#step-4-enter-your-domain)
 - [Step 5: Open GoDaddy Domain Settings](#step-5-open-godaddy-domain-settings)
 - [Step 6: Update Nameservers with Cloudflare](#step-6-update-nameservers-with-cloudflare)
-- [Step 7: Add Your Custom Domain in golinked](#step-7-add-your-custom-domain-in-golinked)
+- [Step 7: Add Your Custom Domain in Golinked](#step-7-add-your-custom-domain-in-golinked)
 - [Step 8: Assign Your Custom Domain to a Link](#step-8-assign-your-custom-domain-to-a-link)
 - [Step 9: Choose Custom Domain Options](#step-9-choose-custom-domain-options)
 
@@ -37,14 +37,14 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 ---
 
-### Step 3: Open Custom Domain Settings in golinked
+### Step 3: Open Custom Domain Settings in Golinked
 
-- Log in to your **golinked** profile.  
+- Log in to your **Golinked** profile.  
 - Go to **Settings → Custom Domains**.  
 - Click on **Add Domain**.  
 
-![Add domain in golinked](Assets/02_add_domain.png)  
-![golinked add domain screen](Assets/03_golinked_add_domain.png)
+![Add domain in Golinked](Assets/02_add_domain.png)  
+![Golinked add domain screen](Assets/03_golinked_add_domain.png)
 
 ---
 
@@ -59,16 +59,16 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 ### Step 5: Open GoDaddy Domain Settings
 
-- In golinked, scroll down to the **GoDaddy section**.  
+- In Golinked, scroll down to the **GoDaddy section**.  
 - Click **Open GoDaddy Domain Settings** to adjust your DNS.  
 
-![Change nameservers in golinked](Assets/05_golinked_change_nameservers.png)
+![Change nameservers in Golinked](Assets/05_golinked_change_nameservers.png)
 
 ---
 
 ### Step 6: Update Nameservers with Cloudflare
 
-- Copy the **Cloudflare nameservers** shown in golinked.  
+- Copy the **Cloudflare nameservers** shown in Golinked.  
 - In GoDaddy, go to **DNS → Nameservers → Change Nameservers**.  
 - Select **I’ll use my own nameservers**.  
 - Paste the Cloudflare nameservers.  
@@ -80,9 +80,9 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 ---
 
-### Step 7: Add Your Custom Domain in golinked
+### Step 7: Add Your Custom Domain in Golinked
 
-- Go back to golinked.  
+- Go back to Golinked.  
 - Click **Add Domain** again to verify and start propagation.  
 
 ![Add domain final step](Assets/09_add_domain_last_step.png)
@@ -91,7 +91,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 ### Step 8: Assign Your Custom Domain to a Link
 
-- Once verified, open your golinked dashboard.  
+- Once verified, open your Golinked dashboard.  
 - Go to your links and select your new **custom domain**.  
 
 ![Custom domain overview](Assets/10_custom_domain_overview.png)  
@@ -124,11 +124,11 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - **One registrar at a time**: After switching nameservers to Cloudflare, manage DNS only in Cloudflare.  
 - **Check spelling**: Nameservers must be copied exactly.  
 - **Propagation takes time**: Wait up to 48h before retrying.  
-- **HTTPS/SSL**: Configured automatically by golinked once domain is active.  
+- **HTTPS/SSL**: Configured automatically by Golinked once domain is active.  
 
 ---
 
 ## Support
 
-If you run into issues, collect screenshots of your **GoDaddy Nameservers page** and **golinked Custom Domains settings** and contact golinked support.
+If you run into issues, collect screenshots of your **GoDaddy Nameservers page** and **Golinked Custom Domains settings** and contact Golinked support.
 
