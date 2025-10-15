@@ -47,13 +47,15 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 - Click on **Add Domain**.  
 
 ![Add domain in Golinked](Assets/02_add_domain.png)  
-![Golinked add domain screen](Assets/03_golinked_add_domain.png)
+
 
 ---
 
 ### Step 4: Enter Your Domain
 
 - Paste your purchased domain into the input field.
+  
+![Golinked add domain screen](Assets/03_golinked_add_domain.png)
 
 - Confirm to proceed.  
 
@@ -65,6 +67,7 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 
 - In golinked, scroll down to the **GoDaddy section**.
 - Click **Open GoDaddy Domain Settings** to adjust your DNS.
+  
 ![Open GoDaddy domain settings](Assets/04_open_godaddy_domain_settings.png) 
 
 
@@ -73,13 +76,21 @@ A step-by-step guide to connect a **custom domain** purchased on **GoDaddy** to 
 ### Step 6: Update Nameservers with Cloudflare
 
 - Copy the **Cloudflare nameservers** shown in golinked.
+  
 ![Copy nameservers](Assets/06_copy_nameserver_golinked.png)  
+
 - In GoDaddy, go to **DNS → Nameservers → Change Nameservers**.
+  
 ![Change nameservers in Golinked](Assets/05_golinked_change_nameservers.png)
+
 - Select **I’ll use my own nameservers**.
+  
 ![Edit nameservers](Assets/07_Edit_nameserver.png)  
+
 - Paste the Cloudflare nameservers.
+  
 ![Paste nameservers](Assets/08_paste_nameserver.png)
+
 - Save and confirm.  
 
 ---
