@@ -1,4 +1,4 @@
-# golinked.bio Tutorials
+# Golinked.bio Tutorials
 
 Welcome to the GoLinked tutorials section! This comprehensive guide covers all aspects of using GoLinked to create and manage your bio links.
 
