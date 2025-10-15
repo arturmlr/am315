@@ -4,7 +4,7 @@ Welcome to the GoLinked tutorials section! This comprehensive guide covers all a
 
 ## Table of Contents
 
-### 🔗 [Custom Domain Setup Guide](./Custom%20domain/Custom%20Domain.md)
+### [1. Custom Domain Setup Guide](./Custom%20domain/Custom%20Domain.md)
 
 ---
 
